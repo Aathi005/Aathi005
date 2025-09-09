@@ -1,0 +1,18 @@
+OUTPUT:
+
+
+
+Epoch 0, Loss: 75.0772
+Epoch 1000, Loss: 2.3654
+Epoch 2000, Loss: 0.6350
+Epoch 3000, Loss: 0.3295
+Epoch 4000, Loss: 0.2147
+Epoch 5000, Loss: 0.1564
+Epoch 6000, Loss: 0.1218
+Epoch 7000, Loss: 0.0990
+Epoch 8000, Loss: 0.0830
+Epoch 9000, Loss: 0.0712
+
+Word vector for 'language':
+[ 1.28902794  0.30396502  1.19111738  2.02477027  1.69908188 -0.38941468
+ -0.96064573  0.25709336  2.30716776 -1.84344052]
