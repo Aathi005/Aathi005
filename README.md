@@ -1,17 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Aathithya A K</h1>
-<h3 align="center">🚀 AI Developer | Deep Learning Enthusiast | Startup Builder</h3>
-
----
-
-## 🧠 About Me
-```diff
-+ B.Tech in AI & Data Science @ SRM Madurai (Pre-final year)
-+ Passionate about Deep Learning, NLP, and Smart Tech
-+ Creator of bilingual (Tamil-English) cheat sheets and visual notes
-+ Building “Aathi” — a startup focused on AI + branding
-
-
 # 👋 Hi, I'm Aathithya A K (Aathi005)
 
 🚀 **AI Developer | Data Science Enthusiast | Startup Builder**
