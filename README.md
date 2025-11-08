@@ -1,54 +1,52 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aathithya</h1>
-<h3 align="center">🚀 Deep Learning Enthusiast | Python Lover 🐍</h3>
+# 👋 Hi, I'm Aathithya A K (Aathi005)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200px" alt="Coding gif"/>
-</p>
+🚀 **AI Developer | Data Science Enthusiast | Startup Builder**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
-</p>
+I'm a pre-final year B.Tech student in **Artificial Intelligence & Data Science** at SRM Madurai College of Engineering and Technology.  
+Passionate about building intelligent systems, solving problems with data, and creating resources that make complex topics simple.
 
 ---
 
-### 👨‍💻 About Me  
-- 🌱 Passionate about **Deep Learning & Artificial Intelligence**  
-- 🐍 Skilled in **Python**  
-- 💼 Completed a **20-day internship at NIT Trichy**  
-- ⚡ Always curious about **AI, Data, and Smart Tech**  
+## 🧠 About Me
+- 🎓 Currently pursuing **AI & Data Science** (CGPA: 8.04)
+- 💡 Skilled in **Python, Machine Learning, Deep Learning, NLP**
+- 📊 Loves transforming technical concepts into **cheat sheets, diagrams, and bilingual resources (Tamil-English)**
+- 🌊 Interested in **AI applications in ocean-based government careers**
+- ⚡ Building my own tech startup **“Aathi”** with focus on branding & AI solutions
 
 ---
 
-### 🎓 Academic Info
-<p align="center">
-  <img src="https://img.shields.io/badge/Current%20CGPA-8.2-green?style=for-the-badge&logo=academia&logoColor=white"/>
-</p>
+## 🔧 Skills & Tools
+- **Languages:** Python, SQL, C++
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, NLTK
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
+- **Other Tools:** Git, GitHub, Jupyter, VS Code
+- **Specialties:**  
+  - Compact exam prep resources  
+  - Visual learning (diagrams, frameworks)  
+  - Branding & design for startups  
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/aathithya-a-k-ab6754294/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+## 📂 Featured Projects
+- 🧾 **AI Cheat Sheets** – Concise, diagram-rich notes for ML/DL/CNN exams  
+- 🐍 **LeetCode Python Challenge** – 30-day problem-solving journey with Tamil-English explanations  
+- 🤖 **NLP Toolkit** – Compact Python/NLTK scripts for text analysis  
+- 🎨 **Startup Branding Assets** – Logos, color schemes, and modern patterns for “Aathi”  
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aathithya&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aathithya&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
+## 🌐 Connect With Me
+- 💻 GitHub: [Aathi005](https://github.com/Aathi005)  
+- 🔗 LinkedIn: *(Add your LinkedIn link here)*  
+- 🎥 YouTube: *(Add your Tamil-English resource channel link here)*  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aathithya&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px" alt="AI gif"/>
-</p>
+## 📈 GitHub Stats
+![Aathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aathi005&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aathi005&layout=compact&theme=radical)
 
-🔥 Thanks for visiting my profile! Let's connect and build something amazing together 🚀
+---
+
+✨ *“AI isn’t just about algorithms — it’s about clarity, creativity, and impact.”*
