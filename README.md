@@ -1,6 +1,22 @@
 <p align="center">
   <img src=""Copilot_20251108_184929.png"" alt="Aathithya AI Developer Banner"/>
 </p>
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Aathithya AI Developer Banner"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Aathithya A K</h1>
+<h3 align="center">🚀 AI Developer | Deep Learning Enthusiast | Startup Builder</h3>
+
+---
+
+## 🧠 About Me
+```diff
++ B.Tech in AI & Data Science @ SRM Madurai (Pre-final year)
++ Passionate about Deep Learning, NLP, and Smart Tech
++ Creator of bilingual (Tamil-English) cheat sheets and visual notes
++ Building “Aathi” — a startup focused on AI + branding
+
 
 # 👋 Hi, I'm Aathithya A K (Aathi005)
 
