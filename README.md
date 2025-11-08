@@ -1,9 +1,6 @@
-
 <p align="center">
-  <img src=""C:\Users\akaat\Downloads\Copilot_20251108_184929.png"" alt="Aathithya AI Developer Banner"/>
+  <img src=""Copilot_20251108_184929.png"" alt="Aathithya AI Developer Banner"/>
 </p>
-
-
 
 # 👋 Hi, I'm Aathithya A K (Aathi005)
 
@@ -21,15 +18,6 @@ Passionate about building intelligent systems, solving problems with data, and c
 - 🌊 Interested in **AI applications in ocean-based government careers**
 - ⚡ Building my own tech startup **“Aathi”** with focus on branding & AI solutions
 
-- <p align="center">
-  <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-005F73?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-008080?style=for-the-badge&logo=nltk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-003B6F?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
 
 ---
 
@@ -41,7 +29,16 @@ Passionate about building intelligent systems, solving problems with data, and c
 - **Specialties:**  
   - Compact exam prep resources  
   - Visual learning (diagrams, frameworks)  
-  - Branding & design for startups  
+  - Branding & design for startups
+  -  <p align="center">
+  <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-005F73?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-008080?style=for-the-badge&logo=nltk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-003B6F?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 
 ---
 
