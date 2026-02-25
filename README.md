@@ -49,8 +49,8 @@ Passionate about building intelligent systems, solving problems with data, and c
 
 ## 🌐 Connect With Me
 - 💻 GitHub: [Aathi005](https://github.com/Aathi005)  
-- 🔗 LinkedIn: *(Add your LinkedIn link here)*  
-- 🎥 YouTube: *(Add your Tamil-English resource channel link here)*  
+- 🔗 LinkedIn: 
+  
 
 ---
 
