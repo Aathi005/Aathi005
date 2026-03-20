@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Aathithya A K (Aathi005)
 
-🚀 **AI Developer | Data Science Enthusiast | Startup Builder**
+🚀 **AI Developer | Data Science Enthusiast**
 
 I'm a pre-final year B.Tech student in **Artificial Intelligence & Data Science** at SRM Madurai College of Engineering and Technology.  
 Passionate about building intelligent systems, solving problems with data, and creating resources that make complex topics simple.
