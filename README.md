@@ -12,7 +12,7 @@ Passionate about building intelligent systems, solving problems with data, and c
 - 🎓 Currently pursuing **AI & Data Science** (CGPA: 8.08)
 - 💡 Skilled in **Python, Machine Learning, Deep Learning, NLP, Cloud computing**
 - 📊 Loves transforming technical concepts into **Real world products**
-- 🌊 Interested in **Building AI applications with IOT **
+- 🌊 Interested in **Building AI applications with IOT**
 
 
 ---
@@ -23,7 +23,7 @@ Passionate about building intelligent systems, solving problems with data, and c
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
 - **Other Tools:** Git, GitHub, Jupyter, VS Code, Android Studio
 
-  -  <p align="center">
+    <p align="center">
   <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-005F73?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -38,7 +38,7 @@ Passionate about building intelligent systems, solving problems with data, and c
 
 ## 🌐 Connect With Me
 - 💻 GitHub: [Aathi005](https://github.com/Aathi005)  
-- 🔗 LinkedIn: linkedin.com/in/aathithya-a-k-ab6754294
+- 🔗 LinkedIn:[Aathithya](https://linkedin.com/in/aathithya-a-k-ab6754294)
   
 
 ---
