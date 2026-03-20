@@ -9,24 +9,20 @@ Passionate about building intelligent systems, solving problems with data, and c
 ---
 
 ## 🧠 About Me
-- 🎓 Currently pursuing **AI & Data Science** (CGPA: 8.04)
-- 💡 Skilled in **Python, Machine Learning, Deep Learning, NLP**
-- 📊 Loves transforming technical concepts into **cheat sheets, diagrams, and bilingual resources (Tamil-English)**
-- 🌊 Interested in **AI applications in ocean-based government careers**
-- ⚡ Building my own tech startup **“Aathi”** with focus on branding & AI solutions
+- 🎓 Currently pursuing **AI & Data Science** (CGPA: 8.08)
+- 💡 Skilled in **Python, Machine Learning, Deep Learning, NLP, Cloud computing**
+- 📊 Loves transforming technical concepts into **Real world products**
+- 🌊 Interested in **Building AI applications with IOT **
 
 
 ---
 
 ## 🔧 Skills & Tools
-- **Languages:** Python, SQL, C++
+- **Languages:** Python, SQL
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn, NLTK
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **Other Tools:** Git, GitHub, Jupyter, VS Code
-- **Specialties:**  
-  - Compact exam prep resources  
-  - Visual learning (diagrams, frameworks)  
-  - Branding & design for startups
+- **Other Tools:** Git, GitHub, Jupyter, VS Code, Android Studio
+
   -  <p align="center">
   <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -39,17 +35,10 @@ Passionate about building intelligent systems, solving problems with data, and c
 
 ---
 
-## 📂 Featured Projects
-- 🧾 **AI Cheat Sheets** – Concise, diagram-rich notes for ML/DL/CNN exams  
-- 🐍 **LeetCode Python Challenge** – 30-day problem-solving journey with Tamil-English explanations  
-- 🤖 **NLP Toolkit** – Compact Python/NLTK scripts for text analysis  
-- 🎨 **Startup Branding Assets** – Logos, color schemes, and modern patterns for “Aathi”  
-
----
 
 ## 🌐 Connect With Me
 - 💻 GitHub: [Aathi005](https://github.com/Aathi005)  
-- 🔗 LinkedIn: 
+- 🔗 LinkedIn: linkedin.com/in/aathithya-a-k-ab6754294
   
 
 ---
